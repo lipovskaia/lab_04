@@ -1,5 +1,5 @@
 /*eslint-env broeser */
-var customerType;
+/*var customerType;
 var invoiceTotal;
 var discountPercent;
 var discountAmount;
@@ -34,10 +34,20 @@ newInvoiceTotal = invoiceTotal - discountAmount;
 
 document.write("invoice total: " + invoiceTotal + "<br>");
 document.write("discount percent: " + invoiceTotal + "<br>");
+*/
+ /* var i;
+for (i = 1; i <= 10; i += 1) {
+    window.document.write(i + "<br>");
+}
 
-
-
-
+*/
+/* var x = 0;
+while (x < 10) {
+    x += 1;
+    window.document.write("I'm on number: " + String(x) + "<br>");
+}
+window.document.write("you have reached the end");
+*/
 
 
 
